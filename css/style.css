@@ -1,0 +1,148 @@
+
+body{
+  margin: 0 0 0 0;
+  text-align: center;
+}
+h1{
+  margin: 0;
+  padding-top: 120px;
+  font-size: 5.625rem;
+  font-family: 'Ibarra Real Nova', serif;
+  color: #0093AB;
+  line-height: 2;
+}
+h2{
+  color: #0093AB;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+/***********************************CLASS****************************************/
+
+.top-container{
+  background-color: #6FDFDF;
+}
+.bottom-container{
+  background-color: #6FDFDF;
+  padding-top: 20px;
+}
+
+.middle-container{
+  font-size: 25px;
+}
+
+.footer-para{
+  margin-bottom: 0;
+}
+.pro{
+  font-style: italic;
+}
+.top-cloud{
+  position: absolute;
+  height: 80px;
+  right: 360px;
+  top:60px;
+}
+.bottom-cloud{
+  position: absolute;
+  height: 80px;
+  left:350px;
+}
+.mountain{
+  height: 450px;
+}
+.para1{
+  margin: 0;
+  font-size: 2.5rem;
+  font-family: 'Ibarra Real Nova', serif;
+  font-weight: normal;
+  color:  #0093AB;
+}
+.profilepicture{
+  height: 250px;
+}
+.footerimg{
+  height: 45px;
+  border-radius: 50%;
+  margin-left: 15px;
+  color: #0093AB;
+}
+.footerimg:hover{
+  background-color: blue;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+.cpp-img{
+  width: 25%;
+  float: left;
+  margin-right: 25px;
+}
+.html5-img{
+  width: 25%;
+  float: left;
+  margin-right: 25px;
+}
+.python-img{
+  width: 25%;
+  float: right;
+  margin-left: 25px;
+}
+.css-3-img{
+  width: 25%;
+  float: right;
+  margin-left: 25px;
+}
+.BUTTON_PMH {
+   background: #3DD9F6;
+   background-image: -webkit-linear-gradient(top, #3DD9F6, #1EC6D0);
+   background-image: -moz-linear-gradient(top, #3DD9F6, #1EC6D0);
+   background-image: -ms-linear-gradient(top, #3DD9F6, #1EC6D0);
+   background-image: -o-linear-gradient(top, #3DD9F6, #1EC6D0);
+   background-image: -webkit-gradient(to bottom, #3DD9F6, #1EC6D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Ibarra Real Nova', serif;
+   font-size: 21px;
+   font-weight: 100;
+   padding: 14px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 40px;
+  margin-top: 20px;
+}
+
+.BUTTON_PMH:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
